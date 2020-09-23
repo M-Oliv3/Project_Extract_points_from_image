@@ -1,7 +1,26 @@
+---
+title: "Project: Developing Data Products"
+author: Maicon
+output: ioslides_presentation
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
 ## Description
-
+ <font size="3">
 The aim of the shiny aplication developed is to extract data from images. For example, when you need the data from a graph and it is not available, the application will extract the points from the graph.<br>
+My github repository [Project](https://github.com/M-Oliv3/Project_Extract_points_from_image)
+</font>
+```{r  echo=TRUE,fig.height = 3, fig.width = 6, fig.align = "center"}
+x<-runif(10,-1,1)
+y<-runif(10,-5,5)
+plot(x,y)
 
+```
 
 ## How to use the application (**Step 1**)
 
