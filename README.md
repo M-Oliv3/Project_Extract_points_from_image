@@ -20,7 +20,7 @@ The aim of the shiny aplication developed is to extract data from images. For ex
 + In the calibration panel, select **Origin** and click in the origin point from the image.
 
 <p align="center">
-<img src="./app2.jpg" height="300px" width="650px" />
+<img src="./app2.JPG" height="300px" width="650px" />
 </p>
 
 ## How to use the application (**Step 3**)
@@ -30,5 +30,5 @@ The aim of the shiny aplication developed is to extract data from images. For ex
 - Finally, the model is calibrated and you can extract the points from the image. Next, select **Points** (Calibration panel) and select **Tab 2**, each time you click in a point you can see it in the table. 
 </font>
 <p align="center">
-<img src="./app4.jpg" height="350px" width="700px" />
+<img src="./app4.JPG" height="350px" width="700px" />
 </p>
