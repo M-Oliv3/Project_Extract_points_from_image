@@ -10,7 +10,7 @@ The aim of the shiny aplication developed is to extract data from images. For ex
 + The example showed in this document can be found here [image](https://i.imgur.com/hYLWvdt.jpg)
 
 <p align="center">
-<img src="./app1.jpg" height="400px" width="600px" />
+<img src="./app1.JPG" height="400px" width="600px" />
 </p>
 
 ## How to use the application (**Step 2**)
