@@ -1,7 +1,7 @@
 ## Description
 
 The aim of the shiny aplication developed is to extract data from images. For example, when you need the data from a graph and it is not available, the application will extract the points from the graph.<br>
-(App)[https://m-oliv3.shinyapps.io/Project_App_Extract_points_from_image/]
+[App](https://m-oliv3.shinyapps.io/Project_App_Extract_points_from_image/)
 
 ## How to use the application (**Step 1**)
 
